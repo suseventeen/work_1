@@ -1,0 +1,4 @@
+# Versions not locked; see README for original environment.
+pandas
+jieba
+nltk

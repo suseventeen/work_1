@@ -1,0 +1,10 @@
+# Local Python environments and generated files
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
